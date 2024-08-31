@@ -19,7 +19,7 @@
 
 **Cons**:
 - Gradle not supported.
-- [] ~~Downloading of dependency's are manual.~~
+- ~~Downloading of dependency's are manual.~~
 - Drag & Drop unsupported for now...
 
 # How to use?
