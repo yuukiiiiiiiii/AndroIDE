@@ -7,6 +7,12 @@
 - **2)** Enhanced `java` syntax highlighting.
 - **3)** Enhanced support for file management.
 
+# Screenshots
+![images](screenshot2.png)  
+![images](screenshot3.png)  
+![images](screenshot4.png)  
+
+
 # Pros & Cons
 **Pros**: 
 - Literally everything!
