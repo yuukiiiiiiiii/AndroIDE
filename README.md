@@ -19,7 +19,7 @@
 
 **Cons**:
 - Gradle not supported.
-- ~~Downloading of dependency's are manual.~~
+-[x] ~~Downloading of dependency's are manual.~~
 - Drag & Drop unsupported for now...
 
 # How to use?
@@ -31,3 +31,4 @@
 {"minSdkVersion":21,"package":"com.appcompat","viewBindingEnabled":true,"libraries":"[]","useR8":true,"targetSdkVersion":29,"versionName":"1.0","versionCode":1,"zipAlignEnabled":true}
 ```
 - And after that, you can now edit your application's configuration.
+
