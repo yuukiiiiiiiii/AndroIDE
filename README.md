@@ -1,2 +1,5 @@
 # AndroIDE
-**AndroIDE** a powerful IDE created on Sketchware
+**AndroIDE** is a powerful IDE created on Sketchware!
+![Introduction](images/screenshot1.png)
+
+# What are the main funtions?
